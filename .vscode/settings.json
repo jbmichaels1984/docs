@@ -1,7 +1,16 @@
 {
   "files.exclude": {
     "**/translations": true
-  }
-  "workbench.editor.enablePreview": false,
-  "workbench.editor.enablePreviewFromQuickOpen": false  
+  },
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.defaultBinaryEditor": "workbench.editors.gettingStartedInput",
+  "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
+  "workbench.editor.empty.hint": "text",
+  "editor.formatOnSave": true,
+  "terminal.integrated.commandsToSkipShell": [
+    ""
+  ],
+  "markdownlint.run": "onSave",
+  "window.density.editorTabHeight": "compact"
 }

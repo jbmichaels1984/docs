@@ -1,4 +1,5 @@
 {
   "FEATURE_TEST_TRUE": true,
-  "FEATURE_TEST_FALSE": false
+  "FEATURE_TEST_FALSE": false,
+  "ENABLE_GPT_5_MINI_FOR_ALL_CLIENTS": true
 }
